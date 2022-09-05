@@ -1,0 +1,27 @@
+El protocolo de borrado de datos de PC-PIGIT tiene como finalidad de proteger la información de nuestro laboratorio y colaboradores. Para supervisar este proceso, se ha asignado a dos carlos las características de superadministrador:
+
+Investigador principal:
+Cecilia Poli,MD,PhD
+correo de contacto: cpoli@udd.cl
+
+Administrador:
+Mauricio Fernández, PhD.
+Correo de contacto: mauriciofernandez@udd.cl
+
+Los superadministradores antes mencionados pueden dar autorización para gestionar el borrado de datos, esto significa que de ellos ud. NO recibe autorización para eliminar datos, sino para realizar la gestión de borrarlos, lo cual implica los siguientes pasos:
+
+1. NO recibe la autorización de borrado: No puede iniciar la gestión y menos aún borrar datos.
+2. Sí recibe la autorización:
+	2.1 	Consulte vía correo electrónico al propietario de los datos si es posible borrarlos y si desea respaldar la 		información en otro dispositivo. Como guía para el propietario indique en el correo el nombre de los archivos 		y el tamaño.
+	2.2	NO recibe vía correo electrónico la confirmación de borrado: NO PUEDE BORRAR LOS DATOS.
+	2.3. 	SI recibe vía correo electronico la confirmación de borrado pero SIN solicitud de respaldo, proceda a 			borrarlos.
+	2.4. 	Si recibe vía correo electronico la confirmación de borrado CON respaldo:
+		
+		2.2.1		Guarde los datos en un dispositivo u otro para su transporte (pendrive, disco duro, correo, 					nube).
+		2.2.2		Grabe los datos en el computador del propietario
+		2.2.3 	Compruebe que el propietario puede acceder correctamente a los archivos.
+				*IMPORTANTE: Ud. -quien desea borrar la información - es el responsable de que el propietario 					tenga un correcto acceso a sus datos.
+
+		2.2.4 	BORRE LOS ARCHIVOS DEL PC-PIGIT.
+		
+			
